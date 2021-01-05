@@ -1,0 +1,10 @@
+C:\Users\Aleksey\RiderProjects\ImgurFuzzer\ImgurFuzzerProject\bin\Release\ImgurFuzzerProject.exe.config
+C:\Users\Aleksey\RiderProjects\ImgurFuzzer\ImgurFuzzerProject\bin\Release\ImgurFuzzerProject.exe
+C:\Users\Aleksey\RiderProjects\ImgurFuzzer\ImgurFuzzerProject\bin\Release\ImgurFuzzerProject.pdb
+C:\Users\Aleksey\RiderProjects\ImgurFuzzer\ImgurFuzzerProject\obj\Release\ImgurFuzzerProject.csprojAssemblyReference.cache
+C:\Users\Aleksey\RiderProjects\ImgurFuzzer\ImgurFuzzerProject\obj\Release\ImgurFuzzerProject.Form1.resources
+C:\Users\Aleksey\RiderProjects\ImgurFuzzer\ImgurFuzzerProject\obj\Release\ImgurFuzzerProject.Properties.Resources.resources
+C:\Users\Aleksey\RiderProjects\ImgurFuzzer\ImgurFuzzerProject\obj\Release\ImgurFuzzerProject.csproj.GenerateResource.cache
+C:\Users\Aleksey\RiderProjects\ImgurFuzzer\ImgurFuzzerProject\obj\Release\ImgurFuzzerProject.csproj.CoreCompileInputs.cache
+C:\Users\Aleksey\RiderProjects\ImgurFuzzer\ImgurFuzzerProject\obj\Release\ImgurFuzzerProject.exe
+C:\Users\Aleksey\RiderProjects\ImgurFuzzer\ImgurFuzzerProject\obj\Release\ImgurFuzzerProject.pdb
